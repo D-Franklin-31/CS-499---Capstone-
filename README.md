@@ -15,7 +15,7 @@ Throughout this program, I collaborated with peers through discussion boards and
 ### Capstone Artifact Summary
 This portfolio centers around my final Android application project: Franklin Inventory App. It is a fully functional mobile inventory management system, designed to handle real-world use cases like item tracking, user login, and audit logging. The app includes multiple enhancements in the categories of Software Design and Engineering, Algorithms and Data Structures, and Databases:
 
-**Software Design and Engineering:**
+**[Software Design and Engineering:](https://github.com/D-Franklin-31/CS-499---Capstone-/tree/main/Enhancement%20Algorithms%20and%20Data%20Structures)**
 - Improving the item inventory
 - Edit quantity of items - tapping on a list item, updating the value without creating duplicates.
 - Delete individual items – delete button to delete inventory items
