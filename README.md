@@ -15,7 +15,7 @@ Throughout this program, I collaborated with peers through discussion boards and
 ### Capstone Artifact Summary
 This portfolio centers around my final Android application project: Franklin Inventory App. It is a fully functional mobile inventory management system, designed to handle real-world use cases like item tracking, user login, and audit logging. The app includes multiple enhancements in the categories of Software Design and Engineering, Algorithms and Data Structures, and Databases:
 
-**[Software Design and Engineering:](https://github.com/D-Franklin-31/CS-499---Capstone-/tree/main/Enhancement%20Algorithms%20and%20Data%20Structures)**
+**[Software Design and Engineering:](https://github.com/D-Franklin-31/CS-499---Capstone-/tree/main/Enhancement%20Software%20Design%20%26%20Engineering)**
 - Improving the item inventory
 - Edit quantity of items - tapping on a list item, updating the value without creating duplicates.
 - Delete individual items – delete button to delete inventory items
@@ -24,7 +24,7 @@ This portfolio centers around my final Android application project: Franklin Inv
 - Adjusting UI components to make the screens more professional
 
 
-**Algorithms and Data Structures**
+**[Algorithms and Data Structures](https://github.com/D-Franklin-31/CS-499---Capstone-/tree/main/Enhancement%20Algorithms%20and%20Data%20Structures)**
 - O(1) lookup– implement an in-memory HashMap cache to allow constant-time lookups
 - Search Function– added a real-time search capability using string filtering
 - Sort Function- sorting algorithms for both name and quantity, with ascending and descending toggles
@@ -32,7 +32,7 @@ This portfolio centers around my final Android application project: Franklin Inv
 - Validation Utilities- created a utility class that applies consistent input validation across the app
 - UI design improvements- resolved layout issues where items were displaying behind the action bar and redesigned the button interface using a Gridlayout.
 
-**Databases**
+**[Databases](https://github.com/D-Franklin-31/CS-499---Capstone-/tree/main/Enhancement%20Databases)**
 - Method for checking whether a user already exists when creating an account
 - New action log table in the database
 - New actionLogAdapter, actionLogActivity, and actionLog classes
